@@ -1,0 +1,40 @@
+_repo: The-Heart-of-Una-Sackville_21129
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Tarrant, Peter
+    gutenberg_agent_id: '9749'
+    url: http://www.gutenberg.org/2009/agents/9749
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaizey, George de Horne, Mrs.
+    aliases:
+    - Vaizey, Jessie Bell
+    - Mansergh, Jessie
+    - Vaizey, Mrs. George de Horne
+    birthdate: 1857
+    deathdate: 1917
+    gutenberg_agent_id: '9729'
+    url: http://www.gutenberg.org/2009/agents/9729
+    wikipedia: http://en.wikipedia.org/wiki/Mrs_George_de_Horne_Vaizey
+description: ''
+gutenberg_issued: '2007-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Diary fiction'
+title: The Heart of Una Sackville
+url: http://www.gutenberg.org/ebooks/21129
